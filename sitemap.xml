@@ -3,108 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//www.philstevensguiding.com/blog/gargoyle-wall/</loc>
+    <loc>//philjstevens.github.io/blog/gargoyle-wall/</loc>
     <lastmod>2018-11-05T22:22:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/blog/kuznia-szpeju/</loc>
+    <loc>//philjstevens.github.io/blog/kuznia-szpeju/</loc>
     <lastmod>2018-10-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/about/</loc>
+    <loc>//philjstevens.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/blog/</loc>
+    <loc>//philjstevens.github.io/blog/</loc>
     <lastmod>2018-11-05T22:22:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/categories/</loc>
+    <loc>//philjstevens.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/tags/climbing/</loc>
+    <loc>//philjstevens.github.io/tags/climbing/</loc>
     <lastmod>2018-11-05T22:22:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/categories/climbs/</loc>
+    <loc>//philjstevens.github.io/categories/climbs/</loc>
     <lastmod>2018-11-05T22:22:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/contact/</loc>
+    <loc>//philjstevens.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/tags/gear/</loc>
-    <lastmod>2018-10-23T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.philstevensguiding.com/categories/gear/</loc>
+    <loc>//philjstevens.github.io/tags/gear/</loc>
     <lastmod>2018-10-23T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/tags/ice-climbing/</loc>
+    <loc>//philjstevens.github.io/categories/gear/</loc>
     <lastmod>2018-10-23T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/tags/kuznia-szpeju/</loc>
+    <loc>//philjstevens.github.io/tags/ice-climbing/</loc>
     <lastmod>2018-10-23T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/media/</loc>
-  </url>
-  
-  <url>
-    <loc>//www.philstevensguiding.com/</loc>
-    <lastmod>2018-11-05T22:22:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.philstevensguiding.com/tags/scottishwinterclimbing/</loc>
-    <lastmod>2018-11-05T22:22:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.philstevensguiding.com/service/</loc>
-  </url>
-  
-  <url>
-    <loc>//www.philstevensguiding.com/tags/</loc>
-    <lastmod>2018-11-05T22:22:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.philstevensguiding.com/thanks/</loc>
-  </url>
-  
-  <url>
-    <loc>//www.philstevensguiding.com/tags/winter/</loc>
+    <loc>//philjstevens.github.io/tags/kuznia-szpeju/</loc>
     <lastmod>2018-10-23T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//www.philstevensguiding.com/tags/winter-climbing/</loc>
+    <loc>//philjstevens.github.io/media/</loc>
+  </url>
+  
+  <url>
+    <loc>//philjstevens.github.io/</loc>
+    <lastmod>2018-11-05T22:22:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//philjstevens.github.io/tags/scottishwinterclimbing/</loc>
+    <lastmod>2018-11-05T22:22:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//philjstevens.github.io/service/</loc>
+  </url>
+  
+  <url>
+    <loc>//philjstevens.github.io/tags/</loc>
+    <lastmod>2018-11-05T22:22:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//philjstevens.github.io/thanks/</loc>
+  </url>
+  
+  <url>
+    <loc>//philjstevens.github.io/tags/winter/</loc>
+    <lastmod>2018-10-23T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//philjstevens.github.io/tags/winter-climbing/</loc>
     <lastmod>2018-11-05T22:22:25+00:00</lastmod>
     <priority>0</priority>
   </url>
